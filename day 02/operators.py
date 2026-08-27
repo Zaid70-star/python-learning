@@ -1,0 +1,40 @@
+x=30;
+y=20;
+print(x+y);
+x=30;
+y=20;
+print(x-y);
+x=30;
+y=20;
+print(x*y);
+x=30;
+y=20;
+print(x/y);
+x=30;
+y=20;
+print(x//y);
+x=30;
+y=20;
+print(x%y);
+x=3;
+y=2;
+print(x**y);
+x=3;
+y=2;
+print(x==y);
+x=3;
+y=2;
+print(x!=y);
+x=3;
+y=2;
+print(x >= y);
+x=3;
+y=2;
+print(x <= y);
+print(x <= y and x >= y);
+print(x <= y or x >= y);
+print ( not x == y);
+name= "hello";
+l=[50,60,70,80]
+print("ll" in name )
+print(90  in l)
