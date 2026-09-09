@@ -1,6 +1,3 @@
-Hello World
-Welcome
-to python programming
-Hello World
-Welcome
-to python programming
+Assalam o Alaikum! 
+Main Zaid hoon. Main ne Urban Bites Pizza ko Google Maps par dekha. 
+Main local restaurants ke liye modern professional websites bana raha hoon, jahan customers easily menu, prices, location aur order/contact details dekh sakte hain.
