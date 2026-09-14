@@ -11,3 +11,10 @@ class bankaccount:
         else:
             self.balance -= amount
             print(f"Withdrew {amount}. New balance: {self.balance}")
+    def display(self):
+        print(f"Account holder: {self.name}, Balance: {self.balance}")
+first_account = bankaccount("Alice")
+first_account.deposit(1000)
+first_account.deposit(100)
+first_account.display()
+first_account.withdraw(500)
